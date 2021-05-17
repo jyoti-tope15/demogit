@@ -1,1 +1,2 @@
-Hello jyoti
+print("Hello jyoti")
+print("Welcome to git ")
