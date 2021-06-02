@@ -8,6 +8,7 @@ while i <= 5:
   i = i +1
 
   print("Hello ")
+  print("xxx")
 print("Another 180 rotation pattern")
 
 # Function to demonstrate printing pattern
